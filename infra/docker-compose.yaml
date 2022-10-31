@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    image: legyan/api_yamdb:latest
+    image: legyan/api_yamdb:v1
     restart: always
     volumes:
       - static_value:/app/static/

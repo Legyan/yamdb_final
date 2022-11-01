@@ -70,6 +70,7 @@ POSTGRES_USER=####
 POSTGRES_PASSWORD=####
 DB_HOST=####
 DB_PORT=####
+SECRET_KEY=####
 ```
 
 Собрать и запустить docker-compose:
